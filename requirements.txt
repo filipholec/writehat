@@ -1,6 +1,6 @@
 toml
 bleach
-pymongo
+pymongo==3.11
 markdown
 openpyxl
 selenium
